@@ -3,4 +3,4 @@ const url = window.location.href;
 
 const n = url.length;
 
-alert(`The length of the Url is: ${n}`)
+alert(`The length of the URL is: ${n}`)
